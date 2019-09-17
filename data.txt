@@ -1,0 +1,5 @@
+hello this is git
+My name is shubham this is 5 days workshop
+python programming
+problem solving and programming
+git and github
